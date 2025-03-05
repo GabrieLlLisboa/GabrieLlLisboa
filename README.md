@@ -1,12 +1,8 @@
 # **Gabriel Lisboa**  
-## 👨‍💻 **Desenvolvedor de Plugins para Minecraft**  
-Atualmente, foco no desenvolvimento de plugins utilizando Java e a API Spigot. 🚀 Estou me aprofundando nas APIs Paper e Bukkit para expandir minhas habilidades.
+Atualmente, foco no desenvolvimento de plugins utilizando Java e a API Spigot, API Bukkit e a API Paper.
+Tenho experiência nas linguagens: Portugol e Java.
 
-Tenho uma experiência considerável nas linguagens, Portugol e Java.
-E espero que no futuro eu possa aprender mais!
-
-Além do desenvolvimento, sou entusiasta de jogos como Minecraft, Euro Truck Simulator, GTA e outros.
-Para contato, me encontre no Discord: devopup. 💬
+No momento foco mais em desenvolver plugins, mas também tentando fazer outras coisas na programação.
 
 ![Visitas ao meu perfil](https://komarev.com/ghpvc/?username=devopup&label=Visitas+ao+perfil)
 
