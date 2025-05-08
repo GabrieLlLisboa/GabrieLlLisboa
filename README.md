@@ -6,5 +6,5 @@ Meu nome é Gabriel Lisboa, iniciante em desenvolvimento de sites, Gosto de expl
 - **Linguagens**: HTML, Java (Plugins de minecraft), JavaScript e Python.
 - **Frameworks/Libraries**: Vue.js
 - **Ferramentas:**: Git, Intellij, VSCode e PyCharm.    
-- 
+
     
