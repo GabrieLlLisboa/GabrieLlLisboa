@@ -1,14 +1,7 @@
-# **Gabriel Lisboa**  
-Atualmente, estou fazendo algumas coisas usando HTML e Portugol.
-Tenho experiência nas linguagens: Portugol e HTML
+# **Olá, pessoal!**  
+Meu nome é Gabriel Lisboa, iniciante em desenvolvimento de sites, Gosto de explorar coisas tecnológicas, e aprender coisas complexas.
 
-Além do desenvolvimento, sou entusiasta de jogos como Minecraft, Euro Truck Simulator, GTA e outros.
-Para contato, me encontre no Discord: devopup. 💬
-
-Acesse meu site: https://sitehons.netlify.app/#
-
-
-![Visitas ao meu perfil](https://komarev.com/ghpvc/?username=devopup&label=Visitas+ao+perfil)
-
-
-![GIF de tecnologia abstrata](https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif) 
+🛠️ Linguagens
+Linguagens: HTML, Java (Plugins de minecraft), JavaScript e Python.
+Frameworks/Libraries: Vue.js (Ainda aprendendo)
+Tools: Git, Intellij, VSCode e PyCharm.
