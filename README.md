@@ -6,6 +6,6 @@ Discord do servidor: https://discord.gg/A93nAnWg9M
 ## 🛠️ Languages and Tools
 - **Linguagens**: HTML, Java (Plugins de minecraft), JavaScript, CSS.
 - **Frameworks/Libraries**: Vue.js
-- **Ferramentas:**: Git, Intellij, VSCode e PyCharm.    
+- **Ferramentas:**: Github, Intellij, VSCode e PyCharm.    
 
     
