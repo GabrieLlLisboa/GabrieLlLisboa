@@ -4,7 +4,7 @@ Discord do servidor: https://discord.gg/A93nAnWg9M
 
 
 ## 🛠️ Languages and Tools
-- **Linguagens**: HTML, Java (Plugins de minecraft), Kotlin (Plugins de minecraft), JavaScript, Python e CSS.
+- **Linguagens**: HTML, Java (Plugins de minecraft), Kotlin (Plugins de minecraft), JavaScript, Python, CSS e C++ (Arduino).
 - **Frameworks/Libraries**: Vue.js, Vault, PlaceholderAPI e ProtocolLib.
 - **Ferramentas:**: Github, Intellij, VSCode, Maven e PyCharm.
 
