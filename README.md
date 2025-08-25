@@ -3,8 +3,8 @@ Meu nome é Gabriel Lisboa, iniciante em desenvolvimento de sites, Gosto de expl
 
 
 ## 🛠️ Languages and Tools
-- **Linguagens**: Python
-- **Frameworks/Libraries**: Vue.js, Vault, PlaceholderAPI e ProtocolLib.
-- **Ferramentas:**: Github, Intellij, VSCode, Maven e PyCharm.
+- **Linguagens**: Python, Aprendendo Java.
+- **Frameworks/Libraries**: 
+- **Ferramentas:**: Github e VSCode.
 
     
