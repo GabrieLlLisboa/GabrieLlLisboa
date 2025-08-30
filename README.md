@@ -3,7 +3,7 @@ Meu nome é Gabriel Lisboa, iniciante em desenvolvimento de sites, Gosto de expl
 
 
 ## 🛠️ Languages and Tools
-- **Linguagens**: Python, Aprendendo Java.
+- **Linguagens**: Python, Java.
 - **Frameworks/Libraries**: 
 - **Ferramentas:**: Github e VSCode.
 
