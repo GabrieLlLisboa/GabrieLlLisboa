@@ -2,8 +2,9 @@
 Meu nome é Gabriel Lisboa, iniciante em desenvolvimento de sites, Gosto de explorar coisas tecnológicas, e aprender coisas complexas.
 
 
-## 🛠️ Languages and Tools
-- **Linguagens**: Python, JavaScript, HTML e CSS.
+## 🛠️ Linguagens e ferramentas:
+- **Linguagens de programação**: Python, JavaScript e CSS.
+- **Linguagens de marcação**: HTML e LaTeX.
 - **Frameworks/Libraries**: 
 - **Ferramentas:**: Github e VSCode.
 
